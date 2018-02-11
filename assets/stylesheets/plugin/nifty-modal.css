@@ -1,0 +1,243 @@
+
+/* Individual modal styles with animations/transitions */
+
+/* Effect 1: Fade in and scale up */
+.fade-scale .modal-dialog {
+	-webkit-transform: scale(0.7);
+	-moz-transform: scale(0.7);
+	-ms-transform: scale(0.7);
+	transform: scale(0.7);
+	opacity: 0;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.in.fade-scale .modal-dialog {
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+	opacity: 1;
+	visibility: visible;
+}
+
+/* Effect 2: Slide from the right */
+.right-slide-in .modal-dialog {
+	-webkit-transform: translateX(20%);
+	-moz-transform: translateX(20%);
+	-ms-transform: translateX(20%);
+	transform: translateX(20%);
+	opacity: 0;
+	-webkit-transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+	-moz-transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+	transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+}
+
+.in.right-slide-in .modal-dialog {
+	-webkit-transform: translateX(0);
+	-moz-transform: translateX(0);
+	-ms-transform: translateX(0);
+	transform: translateX(0);
+	opacity: 1;
+	visibility: visible;
+}
+
+/* Effect 3: Slide from the bottom */
+.bottom-slide-in .modal-dialog {
+	-webkit-transform: translateY(20%);
+	-moz-transform: translateY(20%);
+	-ms-transform: translateY(20%);
+	transform: translateY(20%);
+	opacity: 0;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.in.bottom-slide-in .modal-dialog {
+	-webkit-transform: translateY(0);
+	-moz-transform: translateY(0);
+	-ms-transform: translateY(0);
+	transform: translateY(0);
+	opacity: 1;
+	visibility: visible;
+}
+
+/* Effect 5: fall */
+.fall.modal {
+	-webkit-perspective: 1300px;
+	-moz-perspective: 1300px;
+	perspective: 1300px;
+}
+
+.fall .modal-dialog {
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-transform: translateZ(600px) rotateX(20deg); 
+	-moz-transform: translateZ(600px) rotateX(20deg); 
+	-ms-transform: translateZ(600px) rotateX(20deg); 
+	transform: translateZ(600px) rotateX(20deg); 
+	opacity: 0;
+}
+
+.in.fall .modal-dialog {
+	-webkit-transition: all 0.3s ease-in;
+	-moz-transition: all 0.3s ease-in;
+	transition: all 0.3s ease-in;
+	-webkit-transform: translateZ(0px) rotateX(0deg);
+	-moz-transform: translateZ(0px) rotateX(0deg);
+	-ms-transform: translateZ(0px) rotateX(0deg);
+	transform: translateZ(0px) rotateX(0deg); 
+	opacity: 1;
+	visibility: visible;
+}
+
+/* Effect 8: 3D flip horizontal */
+.flip-horizontal.modal {
+	-webkit-perspective: 1300px;
+	-moz-perspective: 1300px;
+	perspective: 1300px;
+}
+
+.flip-horizontal .modal-dialog {
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-transform: rotateY(-70deg);
+	-moz-transform: rotateY(-70deg);
+	-ms-transform: rotateY(-70deg);
+	transform: rotateY(-70deg);
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	opacity: 0;
+}
+
+.in.flip-horizontal .modal-dialog {
+	-webkit-transform: rotateY(0deg);
+	-moz-transform: rotateY(0deg);
+	-ms-transform: rotateY(0deg);
+	transform: rotateY(0deg);
+	opacity: 1;
+	visibility: visible;
+}
+
+/* Effect 9: 3D flip vertical */
+.flip-vertical.modal {
+	-webkit-perspective: 1300px;
+	-moz-perspective: 1300px;
+	perspective: 1300px;
+}
+
+.flip-vertical .modal-dialog {
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-transform: rotateX(-70deg);
+	-moz-transform: rotateX(-70deg);
+	-ms-transform: rotateX(-70deg);
+	transform: rotateX(-70deg);
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	opacity: 0;
+}
+
+.in.flip-vertical .modal-dialog {
+	-webkit-transform: rotateX(0deg);
+	-moz-transform: rotateX(0deg);
+	-ms-transform: rotateX(0deg);
+	transform: rotateX(0deg);
+	opacity: 1;
+	visibility: visible;
+}
+
+/* Effect 10: 3D sign */
+.sign-3d.modal {
+	-webkit-perspective: 1300px;
+	-moz-perspective: 1300px;
+	perspective: 1300px;
+}
+
+.sign-3d .modal-dialog {
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+	-webkit-transform: rotateX(-60deg);
+	-moz-transform: rotateX(-60deg);
+	-ms-transform: rotateX(-60deg);
+	transform: rotateX(-60deg);
+	-webkit-transform-origin: 50% 0;
+	-moz-transform-origin: 50% 0;
+	transform-origin: 50% 0;
+	opacity: 0;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.in.sign-3d .modal-dialog {
+	-webkit-transform: rotateX(0deg);
+	-moz-transform: rotateX(0deg);
+	-ms-transform: rotateX(0deg);
+	transform: rotateX(0deg);
+	opacity: 1;
+	visibility: visible;
+}
+
+/* Effect 11: Super scaled */
+.zoomIn .modal-dialog {
+	-webkit-transform: scale(2);
+	-moz-transform: scale(2);
+	-ms-transform: scale(2);
+	transform: scale(2);
+	opacity: 0;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.in.zoomIn .modal-dialog {
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+	opacity: 1;
+	visibility: visible;
+}
+
+/* Effect 12:  Just me */
+.overlayer .modal-dialog {
+	-webkit-transform: scale(0.8);
+	-moz-transform: scale(0.8);
+	-ms-transform: scale(0.8);
+	transform: scale(0.8);
+	opacity: 0;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+	top: 20%;
+}
+
+.overlayer .modal-content{
+	border: none;
+	box-shadow: none;
+}
+
+.in.overlayer ~ .modal-backdrop {
+	background: #fff;
+	opacity: 1;
+	visibility: visible;
+} 
+
+.in.overlayer .modal-dialog {
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+	opacity: 1;
+	visibility: visible;
+}
+

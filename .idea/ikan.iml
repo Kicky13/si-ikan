@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dompdf/dompdf" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phenx/php-font-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phenx/php-svg-lib" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/composer.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/dompdf/dompdf" />
+          <root url="file://$MODULE_DIR$/vendor/phenx/php-font-lib" />
+          <root url="file://$MODULE_DIR$/vendor/phenx/php-svg-lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/composer" />
+          <root url="file://$MODULE_DIR$/vendor/dompdf/dompdf" />
+          <root url="file://$MODULE_DIR$/vendor/phenx/php-font-lib" />
+          <root url="file://$MODULE_DIR$/vendor/phenx/php-svg-lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

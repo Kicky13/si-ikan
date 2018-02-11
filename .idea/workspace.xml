@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f76cd5c3-1fce-430d-8823-b90b20fe6edf" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" phpInterpreterId="c9982c97-a037-4803-909f-a33e2e9c24ef">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <pharPath>C:\xampp\htdocs\ikanlast\composer.phar</pharPath>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;?php echo base_url().&quot;/login/&quot;; ?&gt;</find>
+      <find>getAjaxKriteria</find>
+      <find>&lt;?php echo $detail[0]['nama_supplier']; ?&gt;</find>
+      <find>Touchspin</find>
+      <find>background: url</find>
+      <find>../bg.png</find>
+      <find>TouchSpin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;?php echo base_url().&quot;/login/&quot;; ?&gt;</replace>
+      <replace>&lt;!DOCTYPE html&gt; &lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;  &lt;!-- Mirrored from codefeed.in.iis2103.shared-servers.com/eternityForms/index.html by HTTrack Website Copier/3.x [XR&amp;CO'2014], Wed, 22 Feb 2017 18:31:45 GMT --&gt; &lt;head&gt;     &lt;title&gt;Eternity Forms Preview&lt;/title&gt;      &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;     &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;     &lt;link href=&quot;css/preview.css&quot; rel=&quot;stylesheet&quot; /&gt;     &lt;script src=&quot;js/modernizr.js&quot;&gt;&lt;/script&gt;     &lt;link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'&gt; &lt;/head&gt; &lt;body class=&quot;eternity-form&quot;&gt;     &lt;nav class=&quot;main-nav&quot;&gt;         &lt;ul&gt;             &lt;li&gt;&lt;a href=&quot;#demo1&quot; class=&quot;active&quot; data-title=&quot;Login Form&quot; data-panel=&quot;first&quot;&gt;&lt;/a&gt;&lt;/li&gt;             &lt;li&gt;&lt;a href=&quot;#demo2&quot; data-title=&quot;Registration Form&quot; data-panel=&quot;second&quot;&gt;&lt;/a&gt;&lt;/li&gt;             &lt;li&gt;&lt;a href=&quot;#demo3&quot; data-title=&quot;Forgot Password Form&quot; data-panel=&quot;third&quot;&gt;&lt;/a&gt;&lt;/li&gt;             &lt;li&gt;&lt;a href=&quot;#demo4&quot; data-title=&quot;Login Form Dark&quot; data-panel=&quot;fourth&quot;&gt;&lt;/a&gt;&lt;/li&gt;             &lt;li&gt;&lt;a href=&quot;#demo5&quot; data-title=&quot;Registration Form Dark&quot; data-panel=&quot;fifth&quot;&gt;&lt;/a&gt;&lt;/li&gt;             &lt;li&gt;&lt;a href=&quot;#demo6&quot; data-title=&quot;Forgot Password Form Dark&quot; data-panel=&quot;sixth&quot;&gt;&lt;/a&gt;&lt;/li&gt;         &lt;/ul&gt;     &lt;/nav&gt;         &lt;section class=&quot;colorBg1 colorBg&quot; id=&quot;demo1&quot; data-panel=&quot;first&quot;&gt;          &lt;div class=&quot; container&quot;&gt;              &lt;div class=&quot;login-form-section&quot;&gt;                 &lt;div class=&quot;login-content &quot; data-animation=&quot;bounceIn&quot;&gt;                     &lt;form&gt;                         &lt;div class=&quot;section-title&quot;&gt;                             &lt;h3&gt;LogIn to your Account&lt;/h3&gt;                         &lt;/div&gt;                         &lt;div class=&quot;textbox-wrap&quot;&gt;                             &lt;div class=&quot;input-group&quot;&gt;                                 &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-user icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                 &lt;input type=&quot;text&quot; required=&quot;required&quot; class=&quot;form-control&quot; placeholder=&quot;Username&quot; /&gt;                             &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;textbox-wrap&quot;&gt;                             &lt;div class=&quot;input-group&quot;&gt;                                 &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-key icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                 &lt;input type=&quot;password&quot; required=&quot;required&quot; class=&quot;form-control &quot; placeholder=&quot;Password&quot; /&gt;                             &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;login-form-action clearfix&quot;&gt;                             &lt;div class=&quot;checkbox pull-left&quot;&gt;                                 &lt;div class=&quot;custom-checkbox&quot;&gt;                                     &lt;input type=&quot;checkbox&quot; checked name=&quot;iCheck&quot;&gt;                                 &lt;/div&gt;                                 &lt;span class=&quot;checkbox-text pull-left&quot;&gt;&amp;nbsp;Remember Me&lt;/span&gt;                             &lt;/div&gt;                             &lt;button type=&quot;submit&quot; class=&quot;btn btn-success pull-right green-btn&quot;&gt;LogIn &amp;nbsp; &lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;                         &lt;/div&gt;                     &lt;/form&gt;                 &lt;/div&gt;                 &lt;div class=&quot;login-form-links link1 &quot; data-animation=&quot;fadeInLeftBig&quot; data-animation-delay=&quot;.2s&quot;&gt;                     &lt;h4 class=&quot;blue&quot;&gt;Don't have an Account?&lt;/h4&gt;                     &lt;span&gt;No worry&lt;/span&gt;                     &lt;a href=&quot;#demo2&quot; class=&quot;blue&quot;&gt;Click Here&lt;/a&gt;                     &lt;span&gt;to Register&lt;/span&gt;                 &lt;/div&gt;                 &lt;div class=&quot;login-form-links link2 &quot; data-animation=&quot;fadeInRightBig&quot; data-animation-delay=&quot;.4s&quot;&gt;                     &lt;h4 class=&quot;green&quot;&gt;Forget your Password?&lt;/h4&gt;                     &lt;span&gt;Dont worry&lt;/span&gt;                     &lt;a href=&quot;#demo3&quot; class=&quot;green&quot;&gt;Click Here&lt;/a&gt;                     &lt;span&gt;to Get New One&lt;/span&gt;                 &lt;/div&gt;             &lt;/div&gt;            &lt;/div&gt;     &lt;/section&gt;     &lt;section class=&quot;colorBg form-seprator i1&quot;&gt;          &lt;i class=&quot;icon-sun&quot; data-animation=&quot;bounceInUp&quot;&gt;&lt;/i&gt;         &lt;h1 data-animation=&quot;bounceInUp&quot; data-animation-delay=&quot;.2s&quot;&gt;Eternity Forms&lt;/h1&gt;         &lt;br /&gt;         &lt;hgroup&gt;             &lt;h3 data-animation=&quot;fadeInUp&quot; data-animation-delay=&quot;.3s&quot;&gt;Login Form&lt;/h3&gt;             &lt;h3 data-animation=&quot;fadeInUp&quot; data-animation-delay=&quot;.4s&quot;&gt;Registraion Form&lt;/h3&gt;             &lt;h3 data-animation=&quot;fadeInUp&quot; data-animation-delay=&quot;.5s&quot;&gt;Forgot Password Form&lt;/h3&gt;         &lt;/hgroup&gt;      &lt;/section&gt;     &lt;section class=&quot;colorBg2 colorBg&quot; id=&quot;demo2&quot; data-panel=&quot;second&quot;&gt;         &lt;div class=&quot; container&quot;&gt;             &lt;br /&gt;             &lt;br /&gt;             &lt;!-- #region Registration Form --&gt;             &lt;div class=&quot;registration-form-section&quot;&gt;                 &lt;form&gt;                     &lt;div class=&quot;section-title reg-header &quot; data-animation=&quot;fadeInDown&quot;&gt;                         &lt;h3&gt;Get your Account Here &lt;/h3&gt;                      &lt;/div&gt;                     &lt;div class=&quot;clearfix&quot;&gt;                         &lt;div class=&quot;col-sm-6 registration-left-section  &quot; data-animation=&quot;fadeInUp&quot;&gt;                             &lt;div class=&quot;reg-content&quot;&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-user icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;text&quot; class=&quot;form-control &quot; placeholder=&quot;FirstName&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-user icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;text&quot; class=&quot;form-control &quot; placeholder=&quot;LastName&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-envelope icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;email&quot; class=&quot;form-control &quot; placeholder=&quot;Email Id&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                               &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;col-sm-6 registration-right-section &quot; data-animation=&quot;fadeInUp&quot;&gt;                             &lt;div class=&quot;reg-content&quot;&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-user icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;text&quot; class=&quot;form-control &quot; placeholder=&quot;UserName&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-key icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;password&quot; class=&quot;form-control &quot; placeholder=&quot;Password&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-key icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;password&quot; class=&quot;form-control &quot; placeholder=&quot;Confirm-Password&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                               &lt;/div&gt;                         &lt;/div&gt;                     &lt;/div&gt;                     &lt;div class=&quot;registration-form-action clearfix &quot; data-animation=&quot;fadeInUp&quot; data-animation-delay=&quot;.15s&quot;&gt;                         &lt;a href=&quot;#demo1&quot; class=&quot;btn btn-success pull-left blue-btn &quot;&gt;                             &lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Back To Login                           &lt;/a&gt;                         &lt;button type=&quot;submit&quot; class=&quot;btn btn-success pull-right green-btn &quot;&gt;Register Now &amp;nbsp; &lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;                      &lt;/div&gt;                 &lt;/form&gt;             &lt;/div&gt;            &lt;/div&gt;     &lt;/section&gt;     &lt;section class=&quot;colorBg form-seprator i2&quot;&gt;          &lt;i class=&quot;icon-windows&quot; data-animation=&quot;bounceInUp&quot;&gt;&lt;/i&gt;         &lt;br /&gt;         &lt;br /&gt;         &lt;h1 data-animation=&quot;bounceInUp&quot; data-animation-delay=&quot;.2s&quot;&gt;Flat Design&lt;/h1&gt;       &lt;/section&gt;     &lt;section class=&quot;colorBg3 colorBg&quot; id=&quot;demo3&quot; data-panel=&quot;third&quot;&gt;         &lt;div class=&quot; container&quot;&gt;             &lt;br /&gt;             &lt;br /&gt;             &lt;br /&gt;              &lt;div class=&quot;forgot-password-section&quot; data-animation=&quot;bounceInLeft&quot;&gt;                 &lt;div class=&quot;section-title&quot;&gt;                     &lt;h3&gt;Forget Password&lt;/h3&gt;                 &lt;/div&gt;                 &lt;div class=&quot;forgot-content&quot;&gt;                     &lt;form&gt;                         &lt;div class=&quot;textbox-wrap&quot;&gt;                             &lt;div class=&quot;input-group&quot;&gt;                                 &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-user icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                 &lt;input type=&quot;text&quot; class=&quot;form-control &quot; placeholder=&quot;Username&quot; required=&quot;required&quot; /&gt;                             &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;textbox-wrap&quot;&gt;                             &lt;div class=&quot;input-group&quot;&gt;                                 &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-envelope icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                 &lt;input type=&quot;email&quot; class=&quot;form-control &quot; placeholder=&quot;Email Id&quot; required=&quot;required&quot; /&gt;                             &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;forget-form-action clearfix&quot;&gt;                             &lt;a class=&quot;btn btn-success pull-left blue-btn&quot; href=&quot;#demo1&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Back  &lt;/a&gt;                             &lt;button type=&quot;submit&quot; class=&quot;btn btn-success pull-right green-btn&quot;&gt;Submit &amp;nbsp;&amp;nbsp; &lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;                         &lt;/div&gt;                     &lt;/form&gt;                 &lt;/div&gt;             &lt;/div&gt;           &lt;/div&gt;     &lt;/section&gt;     &lt;section class=&quot;colorBg form-seprator i3&quot;&gt;          &lt;i class=&quot;icon-css3&quot; data-animation=&quot;bounceInUp&quot;&gt;&lt;/i&gt;         &lt;br /&gt;         &lt;br /&gt;         &lt;h1 data-animation=&quot;bounceInUp&quot; data-animation-delay=&quot;.2s&quot;&gt;Css3 Robust Animations&lt;/h1&gt;         &lt;br /&gt;      &lt;/section&gt;     &lt;section class=&quot;colorBg4 colorBg dark&quot; id=&quot;demo4&quot; data-panel=&quot;fourth&quot;&gt;         &lt;div class=&quot; container&quot;&gt;              &lt;div class=&quot;login-form-section&quot;&gt;                 &lt;div class=&quot;login-content &quot; data-animation=&quot;bounceIn&quot;&gt;                     &lt;form&gt;                         &lt;div class=&quot;section-title&quot;&gt;                             &lt;h3&gt;LogIn to your Account&lt;/h3&gt;                         &lt;/div&gt;                         &lt;div class=&quot;textbox-wrap&quot;&gt;                             &lt;div class=&quot;input-group&quot;&gt;                                 &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-user icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                 &lt;input type=&quot;text&quot; required=&quot;required&quot; class=&quot;form-control&quot; placeholder=&quot;Username&quot; /&gt;                             &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;textbox-wrap&quot;&gt;                             &lt;div class=&quot;input-group&quot;&gt;                                 &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-key icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                 &lt;input type=&quot;password&quot; required=&quot;required&quot; class=&quot;form-control &quot; placeholder=&quot;Password&quot; /&gt;                             &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;login-form-action clearfix&quot;&gt;                             &lt;div class=&quot;checkbox pull-left&quot;&gt;                                 &lt;div class=&quot;custom-checkbox&quot;&gt;                                     &lt;input type=&quot;checkbox&quot; checked name=&quot;iCheck&quot;&gt;                                 &lt;/div&gt;                                 &lt;span class=&quot;checkbox-text pull-left&quot;&gt;&amp;nbsp;Remember Me&lt;/span&gt;                             &lt;/div&gt;                             &lt;button type=&quot;submit&quot; class=&quot;btn btn-success pull-right green-btn&quot;&gt;LogIn &amp;nbsp; &lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;                         &lt;/div&gt;                     &lt;/form&gt;                 &lt;/div&gt;                 &lt;div class=&quot;login-form-links link1 &quot; data-animation=&quot;fadeInRightBig&quot; data-animation-delay=&quot;.2s&quot;&gt;                     &lt;h4 class=&quot;blue&quot;&gt;Don't have an Account?&lt;/h4&gt;                     &lt;span&gt;No worry&lt;/span&gt;                     &lt;a href=&quot;#demo5&quot; class=&quot;blue&quot;&gt;Click Here&lt;/a&gt;                     &lt;span&gt;to Register&lt;/span&gt;                 &lt;/div&gt;                 &lt;div class=&quot;login-form-links link2 &quot; data-animation=&quot;fadeInLeftBig&quot; data-animation-delay=&quot;.4s&quot;&gt;                     &lt;h4 class=&quot;green&quot;&gt;Forget your Password?&lt;/h4&gt;                     &lt;span&gt;Dont worry&lt;/span&gt;                     &lt;a href=&quot;#demo6&quot; class=&quot;green&quot;&gt;Click Here&lt;/a&gt;                     &lt;span&gt;to Get New One&lt;/span&gt;                 &lt;/div&gt;             &lt;/div&gt;            &lt;/div&gt;     &lt;/section&gt;     &lt;section class=&quot;colorBg form-seprator i4&quot;&gt;          &lt;i class=&quot;icon-html5&quot; data-animation=&quot;bounceInUp&quot;&gt;&lt;/i&gt;         &lt;br /&gt;         &lt;h1 data-animation=&quot;bounceInUp&quot; data-animation-delay=&quot;.2s&quot;&gt;Html 5 Form Validations&lt;/h1&gt;      &lt;/section&gt;     &lt;section class=&quot;colorBg5 colorBg dark&quot; id=&quot;demo5&quot; data-panel=&quot;fifth&quot;&gt;         &lt;div class=&quot; container&quot;&gt;             &lt;br /&gt;             &lt;br /&gt;             &lt;div class=&quot;registration-form-section&quot;&gt;                 &lt;form&gt;                     &lt;div class=&quot;section-title reg-header &quot; data-animation=&quot;fadeInDown&quot;&gt;                         &lt;h3&gt;Get your Account Here &lt;/h3&gt;                      &lt;/div&gt;                     &lt;div class=&quot;clearfix&quot;&gt;                         &lt;div class=&quot;col-sm-6 registration-left-section  &quot; data-animation=&quot;fadeInUp&quot;&gt;                             &lt;div class=&quot;reg-content&quot;&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-user icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;text&quot; class=&quot;form-control &quot; placeholder=&quot;FirstName&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-user icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;text&quot; class=&quot;form-control &quot; placeholder=&quot;LastName&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-envelope icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;email&quot; class=&quot;form-control &quot; placeholder=&quot;Email Id&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                               &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;col-sm-6 registration-right-section &quot; data-animation=&quot;fadeInUp&quot;&gt;                             &lt;div class=&quot;reg-content&quot;&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-user icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;text&quot; class=&quot;form-control &quot; placeholder=&quot;UserName&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-key icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;password&quot; class=&quot;form-control &quot; placeholder=&quot;Password&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                                 &lt;div class=&quot;textbox-wrap&quot;&gt;                                     &lt;div class=&quot;input-group&quot;&gt;                                         &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-key icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                         &lt;input type=&quot;password&quot; class=&quot;form-control &quot; placeholder=&quot;Confirm-Password&quot; required=&quot;required&quot; /&gt;                                     &lt;/div&gt;                                 &lt;/div&gt;                               &lt;/div&gt;                         &lt;/div&gt;                     &lt;/div&gt;                     &lt;div class=&quot;registration-form-action clearfix &quot; data-animation=&quot;fadeInUp&quot; data-animation-delay=&quot;.15s&quot;&gt;                         &lt;a href=&quot;#demo4&quot; class=&quot;btn btn-success pull-left blue-btn &quot;&gt;                             &lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&amp;nbsp; &amp;nbsp;Back To Login                           &lt;/a&gt;                         &lt;button type=&quot;submit&quot; class=&quot;btn btn-success pull-right green-btn &quot;&gt;Register Now &amp;nbsp; &lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;                      &lt;/div&gt;                 &lt;/form&gt;             &lt;/div&gt;            &lt;/div&gt;     &lt;/section&gt;     &lt;section class=&quot;colorBg form-seprator&quot;&gt;          &lt;i class=&quot;icon-resize-full&quot; data-animation=&quot;bounceInUp&quot;&gt;&lt;/i&gt;         &lt;br /&gt;         &lt;br /&gt;         &lt;h1 data-animation=&quot;bounceInUp&quot; data-animation-delay=&quot;.2s&quot;&gt;Fully Responsive&lt;/h1&gt;         &lt;br /&gt;         &lt;hgroup&gt;             &lt;h3 data-animation=&quot;fadeInUp&quot; data-animation-delay=&quot;.3s&quot;&gt;Retina Ready&lt;/h3&gt;             &lt;h3 data-animation=&quot;fadeInUp&quot; data-animation-delay=&quot;.4s&quot;&gt;2 Color Themes&lt;/h3&gt;             &lt;h3 data-animation=&quot;fadeInUp&quot; data-animation-delay=&quot;.5s&quot;&gt;Font Icons&lt;/h3&gt;         &lt;/hgroup&gt;      &lt;/section&gt;     &lt;section class=&quot;colorBg6 colorBg dark&quot; id=&quot;demo6&quot; data-panel=&quot;sixth&quot;&gt;         &lt;div class=&quot; container&quot;&gt;             &lt;br /&gt;             &lt;br /&gt;             &lt;br /&gt;              &lt;div class=&quot;forgot-password-section&quot; data-animation=&quot;bounceInLeft&quot;&gt;                 &lt;div class=&quot;section-title&quot;&gt;                     &lt;h3&gt;Forget Password&lt;/h3&gt;                 &lt;/div&gt;                 &lt;div class=&quot;forgot-content&quot;&gt;                     &lt;form&gt;                         &lt;div class=&quot;textbox-wrap&quot;&gt;                             &lt;div class=&quot;input-group&quot;&gt;                                 &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-user icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                 &lt;input type=&quot;text&quot; class=&quot;form-control &quot; placeholder=&quot;Username&quot; required=&quot;required&quot; /&gt;                             &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;textbox-wrap&quot;&gt;                             &lt;div class=&quot;input-group&quot;&gt;                                 &lt;span class=&quot;input-group-addon &quot;&gt;&lt;i class=&quot;icon-envelope icon-color&quot;&gt;&lt;/i&gt;&lt;/span&gt;                                 &lt;input type=&quot;email&quot; class=&quot;form-control &quot; placeholder=&quot;Email Id&quot; required=&quot;required&quot; /&gt;                             &lt;/div&gt;                         &lt;/div&gt;                         &lt;div class=&quot;forget-form-action clearfix&quot;&gt;                             &lt;a href=&quot;#demo4&quot; class=&quot;btn btn-success pull-left blue-btn&quot;&gt;&lt;i class=&quot;icon-chevron-left&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;Back  &lt;/a&gt;                             &lt;button type=&quot;submit&quot; class=&quot;btn btn-success pull-right green-btn&quot;&gt;Submit &amp;nbsp;&amp;nbsp; &lt;i class=&quot;icon-chevron-right&quot;&gt;&lt;/i&gt;&lt;/button&gt;                         &lt;/div&gt;                     &lt;/form&gt;                 &lt;/div&gt;             &lt;/div&gt;           &lt;/div&gt;     &lt;/section&gt;     &lt;section class=&quot;colorBg form-seprator nf&quot;&gt;          &lt;hgroup class=&quot;i8 &quot;&gt;             &lt;h3 data-animation=&quot;fadeInUp&quot; data-animation-delay=&quot;.3s&quot;&gt;12 $ Value&lt;/h3&gt;             &lt;h3 data-animation=&quot;fadeInUp&quot; data-animation-delay=&quot;.4s&quot;&gt;Now Get                  &lt;span class=&quot;label label-danger&quot;&gt;25%&lt;/span&gt; off&lt;/h3&gt;             &lt;h3 data-animation=&quot;fadeInUp&quot; data-animation-delay=&quot;.5s&quot;&gt;Hurry, Limited Period Offer&lt;/h3&gt;         &lt;/hgroup&gt;         &lt;br /&gt;         &lt;h1 data-animation=&quot;bounceIn&quot; data-animation-delay=&quot;.2s&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg btn-buy&quot; href=&quot;https://wrapbootstrap.com/theme/eternity-forms-WB0G8810G&quot;&gt;Purchase Now &amp;nbsp;&lt;span&gt; 9$ &lt;/span&gt;&amp;nbsp;Only&lt;/a&gt;&lt;/h1&gt;         &lt;br /&gt;         &lt;i class=&quot;icon-shopping-cart &quot; data-animation=&quot;bounceInUp&quot;&gt;&lt;/i&gt;        &lt;/section&gt;      &lt;script src=&quot;js/jquery-1.9.1.js&quot;&gt;&lt;/script&gt;     &lt;script src=&quot;js/bootstrap.js&quot;&gt;&lt;/script&gt;     &lt;script src=&quot;js/respond.src.js&quot;&gt;&lt;/script&gt;     &lt;script src=&quot;js/jquery.icheck.js&quot;&gt;&lt;/script&gt;     &lt;script src=&quot;js/placeholders.min.js&quot;&gt;&lt;/script&gt;     &lt;script src=&quot;js/waypoints.min.js&quot;&gt;&lt;/script&gt;     &lt;script src=&quot;js/jquery.panelSnap.js&quot;&gt;&lt;/script&gt;      &lt;script type=&quot;text/javascript&quot;&gt;         $(function () {             $(&quot;input&quot;).iCheck({                 checkboxClass: 'icheckbox_square-blue',                 increaseArea: '20%' // optional             });             $(&quot;.dark input&quot;).iCheck({                 checkboxClass: 'icheckbox_polaris',                 increaseArea: '20%' // optional             });             $(&quot;.form-control&quot;).focus(function () {                 $(this).closest(&quot;.textbox-wrap&quot;).addClass(&quot;focused&quot;);             }).blur(function () {                 $(this).closest(&quot;.textbox-wrap&quot;).removeClass(&quot;focused&quot;);             });              //On Scroll Animations               if ($(window).width() &gt;= 968 &amp;&amp; !Modernizr.touch &amp;&amp; Modernizr.cssanimations) {                  $(&quot;body&quot;).addClass(&quot;scroll-animations-activated&quot;);                 $('[data-animation-delay]').each(function () {                     var animationDelay = $(this).data(&quot;animation-delay&quot;);                     $(this).css({                         &quot;-webkit-animation-delay&quot;: animationDelay,                         &quot;-moz-animation-delay&quot;: animationDelay,                         &quot;-o-animation-delay&quot;: animationDelay,                         &quot;-ms-animation-delay&quot;: animationDelay,                         &quot;animation-delay&quot;: animationDelay                     });                  });                 $('[data-animation]').waypoint(function (direction) {                     if (direction == &quot;down&quot;) {                         $(this).addClass(&quot;animated &quot; + $(this).data(&quot;animation&quot;));                      }                 }, {                     offset: '90%'                 }).waypoint(function (direction) {                     if (direction == &quot;up&quot;) {                         $(this).removeClass(&quot;animated &quot; + $(this).data(&quot;animation&quot;));                      }                 }, {                     offset: $(window).height() + 1                 });             }              //End On Scroll Animations               $(&quot;.main-nav a[href]&quot;).click(function () {                 var scrollElm = $(this).attr(&quot;href&quot;);                  $(&quot;html,body&quot;).animate({ scrollTop: $(scrollElm).offset().top }, 500);                  $(&quot;.main-nav a[href]&quot;).removeClass(&quot;active&quot;);                 $(this).addClass(&quot;active&quot;);             });                 if ($(window).width() &gt; 1000 &amp;&amp; !Modernizr.touch) {                 var options = {                     $menu: &quot;.main-nav&quot;,                     menuSelector: 'a',                     panelSelector: 'section',                     namespace: '.panelSnap',                     onSnapStart: function () { },                     onSnapFinish: function ($target) {                         $target.find('input:first').focus();                     },                     directionThreshold: 50,                     slideSpeed: 200                 };                 $('body').panelSnap(options);              }              $(&quot;.colorBg a[href]&quot;).click(function () {                 var scrollElm = $(this).attr(&quot;href&quot;);                  $(&quot;html,body&quot;).animate({ scrollTop: $(scrollElm).offset().top }, 500);                  return false;             });                        });     &lt;/script&gt;  &lt;/body&gt;  &lt;!-- Mirrored from codefeed.in.iis2103.shared-servers.com/eternityForms/index.html by HTTrack Website Copier/3.x [XR&amp;CO'2014], Wed, 22 Feb 2017 18:31:55 GMT --&gt; &lt;/html&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/s_drp.php" />
+        <option value="$PROJECT_DIR$/application/views/s_konsumen_edit.php" />
+        <option value="$PROJECT_DIR$/application/views/s_kualitas.php" />
+        <option value="$PROJECT_DIR$/application/views/s_kualitas_add.php" />
+        <option value="$PROJECT_DIR$/application/views/s_kualitas_edit.php" />
+        <option value="$PROJECT_DIR$/application/views/s_stok.php" />
+        <option value="$PROJECT_DIR$/application/views/s_stok_add.php" />
+        <option value="$PROJECT_DIR$/application/views/s_stok_edit.php" />
+        <option value="$PROJECT_DIR$/application/views/s_transaksi.php" />
+        <option value="$PROJECT_DIR$/application/views/s_validasi_pesan.php" />
+        <option value="$PROJECT_DIR$/assets/login/css/typica-login.css" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/application/views/d_home.php" />
+        <option value="$PROJECT_DIR$/application/views/d_konsumen.php" />
+        <option value="$PROJECT_DIR$/application/views/k_pemesanan_edit.php" />
+        <option value="$PROJECT_DIR$/application/views/s_penjualan_edit.php" />
+        <option value="$PROJECT_DIR$/application/views/d_pemesanan.php" />
+        <option value="$PROJECT_DIR$/application/views/s_penjualan.php" />
+        <option value="$PROJECT_DIR$/application/views/k_pemesanan.php" />
+        <option value="$PROJECT_DIR$/application/views/k_stok.php" />
+        <option value="$PROJECT_DIR$/application/models/m_stok.php" />
+        <option value="$PROJECT_DIR$/application/models/m_login.php" />
+        <option value="$PROJECT_DIR$/application/controllers/konsumen.php" />
+        <option value="$PROJECT_DIR$/application/views/a_konsumen.php" />
+        <option value="$PROJECT_DIR$/application/views/a_stok.php" />
+        <option value="$PROJECT_DIR$/application/views/a_rekap.php" />
+        <option value="$PROJECT_DIR$/application/models/m_rekap.php" />
+        <option value="$PROJECT_DIR$/application/views/a_supplier_add.php" />
+        <option value="$PROJECT_DIR$/application/views/a_supplier.php" />
+        <option value="$PROJECT_DIR$/application/views/a_supplier_edit.php" />
+        <option value="$PROJECT_DIR$/application/models/m_supplier.php" />
+        <option value="$PROJECT_DIR$/application/controllers/stok.php" />
+        <option value="$PROJECT_DIR$/application/controllers/rekap.php" />
+        <option value="$PROJECT_DIR$/application/models/m_pemesanan.php" />
+        <option value="$PROJECT_DIR$/assets/scripts/theme/theme-plugins.js" />
+        <option value="$PROJECT_DIR$/application/controllers/home.php" />
+        <option value="$PROJECT_DIR$/application/controllers/supplier.php" />
+        <option value="$PROJECT_DIR$/application/models/m_distributor.php" />
+        <option value="$PROJECT_DIR$/application/views/s_distributor.php" />
+        <option value="$PROJECT_DIR$/application/views/s_distributor_add.php" />
+        <option value="$PROJECT_DIR$/application/controllers/distributor.php" />
+        <option value="$PROJECT_DIR$/application/views/s_distributor_edit.php" />
+        <option value="$PROJECT_DIR$/application/controllers/error.php" />
+        <option value="$PROJECT_DIR$/application/views/k_pemesanan_add.php" />
+        <option value="$PROJECT_DIR$/application/controllers/pemesanan.php" />
+        <option value="$PROJECT_DIR$/application/views/login.php" />
+        <option value="$PROJECT_DIR$/application/controllers/login.php" />
+        <option value="$PROJECT_DIR$/application/views/topbar/navbar.php" />
+        <option value="$PROJECT_DIR$/application/views/topbar/k_navbar.php" />
+        <option value="$PROJECT_DIR$/application/views/topbar/d_navbar.php" />
+        <option value="$PROJECT_DIR$/application/views/topbar/a_navbar.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="siikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ikanlast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="siikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ikanlast" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../simangga" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.models">
+    <configuration default="false" name="models" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/application/models" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.models" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.models" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f76cd5c3-1fce-430d-8823-b90b20fe6edf" name="Default" comment="" />
+      <created>1487579430564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487579430564</updated>
+      <workItem from="1487579435651" duration="23746000" />
+      <workItem from="1487659002661" duration="25144000" />
+      <workItem from="1487724460764" duration="7891000" />
+      <workItem from="1487747364462" duration="26574000" />
+      <workItem from="1487816081312" duration="2187000" />
+      <workItem from="1487839847849" duration="3459000" />
+      <workItem from="1487853144652" duration="479000" />
+      <workItem from="1487854135936" duration="805000" />
+      <workItem from="1487858270526" duration="1167000" />
+      <workItem from="1487917157703" duration="933000" />
+      <workItem from="1487919227543" duration="17443000" />
+      <workItem from="1487961830935" duration="1778000" />
+      <workItem from="1488000472323" duration="1772000" />
+      <workItem from="1488003351635" duration="4226000" />
+      <workItem from="1488047246812" duration="164000" />
+      <workItem from="1488048338945" duration="5880000" />
+      <workItem from="1488103982416" duration="597000" />
+      <workItem from="1488136328270" duration="598000" />
+      <workItem from="1488139131200" duration="13978000" />
+      <workItem from="1488185625517" duration="7804000" />
+      <workItem from="1488196906575" duration="3554000" />
+      <workItem from="1488241507870" duration="9760000" />
+      <workItem from="1488302564722" duration="7693000" />
+      <workItem from="1488388038436" duration="1201000" />
+      <workItem from="1488525256544" duration="599000" />
+      <workItem from="1489075141141" duration="821000" />
+      <workItem from="1489081974011" duration="120000" />
+      <workItem from="1489867944439" duration="21000" />
+      <workItem from="1489867966955" duration="30000" />
+      <workItem from="1489867998430" duration="4334000" />
+      <workItem from="1490160857030" duration="599000" />
+      <workItem from="1490171194803" duration="11217000" />
+      <workItem from="1490228198467" duration="742000" />
+      <workItem from="1490233532723" duration="8267000" />
+      <workItem from="1490294815005" duration="6815000" />
+      <workItem from="1490321439747" duration="3954000" />
+      <workItem from="1490542998175" duration="594000" />
+      <workItem from="1490577265334" duration="3411000" />
+      <workItem from="1491009608988" duration="28000" />
+      <workItem from="1491009638801" duration="703000" />
+      <workItem from="1491747048739" duration="3855000" />
+      <workItem from="1491846018492" duration="396000" />
+      <workItem from="1491846933675" duration="6495000" />
+      <workItem from="1491858642099" duration="4593000" />
+      <workItem from="1492376330228" duration="12732000" />
+      <workItem from="1492791101347" duration="757000" />
+      <workItem from="1492792321833" duration="16446000" />
+      <workItem from="1492911979531" duration="5914000" />
+      <workItem from="1492956928217" duration="8082000" />
+      <workItem from="1493055523394" duration="1558000" />
+      <workItem from="1493135831567" duration="452000" />
+      <workItem from="1493224121042" duration="104000" />
+      <workItem from="1493224771328" duration="733000" />
+      <workItem from="1493430736947" duration="9060000" />
+      <workItem from="1493448267608" duration="216000" />
+      <workItem from="1493448518095" duration="7391000" />
+      <workItem from="1493517400137" duration="8150000" />
+      <workItem from="1493555672129" duration="63000" />
+      <workItem from="1493576288133" duration="131000" />
+      <workItem from="1493577029654" duration="21520000" />
+      <workItem from="1493610171039" duration="4108000" />
+      <workItem from="1493631801240" duration="148000" />
+      <workItem from="1493631978684" duration="3978000" />
+      <workItem from="1493638894076" duration="3506000" />
+      <workItem from="1493718927732" duration="4414000" />
+      <workItem from="1493736067951" duration="9633000" />
+      <workItem from="1494331813784" duration="9895000" />
+      <workItem from="1494349123717" duration="6647000" />
+      <workItem from="1494372299054" duration="2038000" />
+      <workItem from="1494377065498" duration="2698000" />
+      <workItem from="1494421753950" duration="985000" />
+      <workItem from="1494922110042" duration="8335000" />
+      <workItem from="1494932657941" duration="4042000" />
+      <workItem from="1494941396596" duration="1532000" />
+      <workItem from="1494954724878" duration="327000" />
+      <workItem from="1494955085107" duration="3274000" />
+      <workItem from="1494962201684" duration="8019000" />
+      <workItem from="1494970663715" duration="661000" />
+      <workItem from="1494975636779" duration="5821000" />
+      <workItem from="1495009732851" duration="12139000" />
+      <workItem from="1495031996907" duration="7483000" />
+      <workItem from="1495042801735" duration="10759000" />
+      <workItem from="1495058516785" duration="120000" />
+      <workItem from="1495058664460" duration="4619000" />
+      <workItem from="1495067187065" duration="216000" />
+      <workItem from="1495067429377" duration="4447000" />
+      <workItem from="1495072089599" duration="935000" />
+      <workItem from="1495082959313" duration="2782000" />
+      <workItem from="1495117139965" duration="594000" />
+      <workItem from="1495136320379" duration="5864000" />
+      <workItem from="1495155608439" duration="11301000" />
+      <workItem from="1495186996340" duration="3246000" />
+      <workItem from="1495197621987" duration="1274000" />
+      <workItem from="1495207776058" duration="10001000" />
+      <workItem from="1495221578185" duration="6438000" />
+      <workItem from="1495265276738" duration="9186000" />
+      <workItem from="1495291955901" duration="9686000" />
+      <workItem from="1495307121081" duration="599000" />
+      <workItem from="1495317169348" duration="599000" />
+      <workItem from="1495321621138" duration="52000" />
+      <workItem from="1495321699107" duration="2805000" />
+      <workItem from="1495327163946" duration="4462000" />
+      <workItem from="1495364771208" duration="595000" />
+      <workItem from="1495728920364" duration="1237000" />
+      <workItem from="1495927003680" duration="6462000" />
+      <workItem from="1495990008780" duration="1513000" />
+      <workItem from="1496021429084" duration="793000" />
+      <workItem from="1496043654323" duration="4909000" />
+      <workItem from="1496062190216" duration="7479000" />
+      <workItem from="1496093032067" duration="2837000" />
+      <workItem from="1496108924694" duration="5442000" />
+      <workItem from="1496172612323" duration="4851000" />
+      <workItem from="1496179904043" duration="1106000" />
+      <workItem from="1496181829231" duration="4855000" />
+      <workItem from="1496186841465" duration="416000" />
+      <workItem from="1496189188625" duration="2168000" />
+      <workItem from="1496271197173" duration="6847000" />
+      <workItem from="1496284002742" duration="11319000" />
+      <workItem from="1496336425077" duration="8179000" />
+      <workItem from="1496462570442" duration="697000" />
+      <workItem from="1496904466635" duration="102000" />
+      <workItem from="1497449309541" duration="1256000" />
+      <workItem from="1497621781625" duration="1391000" />
+      <workItem from="1497676473196" duration="355000" />
+      <workItem from="1497676857142" duration="496000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="584709000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/views/cover.php</url>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/pemesanan.php</url>
+          <line>161</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/s_penjualan_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="199" column="38" lean-forward="false" selection-start-line="199" selection-start-column="38" selection-end-line="199" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/d_pemesanan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="208" column="60" lean-forward="true" selection-start-line="208" selection-start-column="60" selection-end-line="208" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/s_penjualan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="200" column="107" lean-forward="false" selection-start-line="200" selection-start-column="107" selection-end-line="200" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/k_stok.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3162">
+          <caret line="186" column="44" lean-forward="false" selection-start-line="186" selection-start-column="44" selection-end-line="186" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/m_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/s_stok.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2398">
+          <caret line="39" column="74" lean-forward="false" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/m_stok.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/a_konsumen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="120" column="34" lean-forward="false" selection-start-line="120" selection-start-column="34" selection-end-line="120" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/a_stok.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="119" column="33" lean-forward="false" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/konsumen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/m_rekap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/a_rekap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="192" column="70" lean-forward="false" selection-start-line="192" selection-start-column="70" selection-end-line="192" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/m_anggota.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/a_supplier_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="127" column="34" lean-forward="false" selection-start-line="127" selection-start-column="34" selection-end-line="127" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/a_supplier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="195" column="104" lean-forward="false" selection-start-line="195" selection-start-column="104" selection-end-line="195" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/a_supplier_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="185" column="137" lean-forward="false" selection-start-line="185" selection-start-column="137" selection-end-line="185" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/m_konsumen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="41" column="10" lean-forward="true" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/stok.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/m_supplier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/rekap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scripts/plugins/notify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scripts/lib/modernizr-custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scripts/lib/tether.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scripts/lib/respond.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/stylesheets/theme-libs-plugins.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="10140" column="23" lean-forward="false" selection-start-line="10140" selection-start-column="14" selection-end-line="10140" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/stylesheets/skin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="9468" column="24" lean-forward="false" selection-start-line="9468" selection-start-column="15" selection-end-line="9468" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/stylesheets/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scripts/theme/theme-plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="3506" column="457" lean-forward="false" selection-start-line="3506" selection-start-column="457" selection-end-line="3506" selection-end-column="457" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/supplier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="94" lean-forward="false" selection-start-line="17" selection-start-column="94" selection-end-line="17" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/s_konsumen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="377" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/s_konsumen_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="44" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="422" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/s_distributor_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="212" column="22" lean-forward="true" selection-start-line="212" selection-start-column="22" selection-end-line="212" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/s_distributor_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="202" column="42" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="406" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/s_distributor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="165" column="242" lean-forward="false" selection-start-line="165" selection-start-column="242" selection-end-line="165" selection-end-column="242" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/distributor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/m_distributor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/anggota.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/errors/error401.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/error.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/k_pemesanan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5306">
+          <caret line="38" column="78" lean-forward="false" selection-start-line="38" selection-start-column="78" selection-end-line="38" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" column="87" lean-forward="false" selection-start-line="107" selection-start-column="87" selection-end-line="107" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="45" column="94" lean-forward="false" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/k_pemesanan_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="500" column="14" lean-forward="false" selection-start-line="500" selection-start-column="14" selection-end-line="500" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/m_pemesanan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="197" column="21" lean-forward="false" selection-start-line="197" selection-start-column="21" selection-end-line="197" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/pemesanan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="83" column="12" lean-forward="false" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
+          <folding>
+            <marker date="1496356978190" expanded="true" signature="1118:1208" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/topbar/a_navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/topbar/d_navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="102" lean-forward="false" selection-start-line="5" selection-start-column="102" selection-end-line="5" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/topbar/k_navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="102" lean-forward="false" selection-start-line="5" selection-start-column="102" selection-end-line="5" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/topbar/navbar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="102" lean-forward="false" selection-start-line="5" selection-start-column="102" selection-end-line="5" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
